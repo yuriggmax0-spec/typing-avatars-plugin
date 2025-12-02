@@ -1,0 +1,11 @@
+{
+  "name": "Typing Avatars",
+  "description": "Mostra quem está digitando com avatares clicáveis (compatível BunnyCord / Revenge / SL).",
+  "authors": [
+    {
+      "name": "@frutador"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "index.js"
+}
